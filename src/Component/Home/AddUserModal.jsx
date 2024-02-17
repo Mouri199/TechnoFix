@@ -21,7 +21,7 @@ const AddUserModal = () => {
                 state: data.state,
                 city: data.city
             },
-
+  
             email: data.email, 
             image: data.image,
             company: {
